@@ -1,9 +1,9 @@
-<h1 align="center">Hi , 𝗧𝗛𝗘 𝗚𝗢𝗗𝗗𝗘𝗦𝗦 𝗔𝗘𝗦𝗧𝗛𝗘𝗥ฅ^•ﻌ•^ฅ <img src="" width="35"></h1>
+<h1 align="center">Hi , I'M 𝗔𝗘𝗦𝗧𝗛𝗘𝗥! <img src="https://i.imgur.com/ZjFozzP.jpeg" width="30"></h1>
 
-![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://i.imgur.com/25y6rNc.jpeg)
+![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://i.postimg.cc/0ytKsNMc/88597093f89deef3fd56331f906bafa5.jpg)
 
 <p align="center">
-  <a href="https://i.postimg.cc/0ytKsNMc/88597093f89deef3fd56331f906bafa5.jpg"><img src="https://readme-typing-svg.herokuapp.com?lines=𝙸 𝚖 +🔱𝚃𝚑𝚎~𝙶𝚘𝚍𝚍𝚎𝚜𝚜🔱+𝙰𝙴𝚂𝚃𝙷𝙴𝚁+𝙼𝚊𝚕𝚊𝚐𝚊𝚜𝚢+keep+learning;Lets+study+together+ฅ^•ﻌ•^ฅ&center=true&width=500&height=50"></a>
+  <a href="https://github.com/khrlmstfa/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Im+just+noob;but+I+will+keep+learning;Lets+study+together+(⁠ ⁠˘⁠ ⁠³⁠˘⁠)&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">const noob = required('me');</h4>
@@ -45,5 +45,5 @@
 
 
 
-* Credit: 𝙰𝚎𝚜𝚝𝚑𝚎𝚛
+* Credit: 𝙰𝚗𝚓𝚊/𝙰𝙴𝚂𝚃𝙷𝙴𝚁
 * Last Edited on: 05/26/2024
