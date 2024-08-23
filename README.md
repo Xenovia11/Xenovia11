@@ -3,7 +3,7 @@
 ![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://i.imgur.com/25y6rNc.jpeg)
 
 <p align="center">
-  <a href="https://i.postimg.cc/0ytKsNMc/88597093f89deef3fd56331f906bafa5.jpg"><img src="https://readme-typing-svg.herokuapp.com?lines=Im+just+noob;but+I+will+keep+learning;Lets+study+together+(⁠ ⁠˘⁠ ⁠³⁠˘⁠)&center=true&width=500&height=50"></a>
+  <a href="https://i.postimg.cc/0ytKsNMc/88597093f89deef3fd56331f906bafa5.jpg"><img src="https://readme-typing-svg.herokuapp.com?lines=𝙸 𝚖 +🔱𝚃𝚑𝚎~𝙶𝚘𝚍𝚍𝚎𝚜𝚜🔱+𝙰𝙴𝚂𝚃𝙷𝙴𝚁+𝙼𝚊𝚕𝚊𝚐𝚊𝚜𝚢+keep+learning;Lets+study+together+ฅ^•ﻌ•^ฅ&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">const noob = required('me');</h4>
