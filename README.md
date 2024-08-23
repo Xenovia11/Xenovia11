@@ -1,9 +1,9 @@
-<h1 align="center">Hi , 𝗧𝗛𝗘 𝗚𝗢𝗗𝗗𝗘𝗦𝗦 𝗔𝗘𝗦𝗧𝗛𝗘𝗥ฅ^•ﻌ•^ฅ <img src="https://i.postimg.cc/0ytKsNMc/88597093f89deef3fd56331f906bafa5.jpg" width="35"></h1>
+<h1 align="center">Hi , 𝗧𝗛𝗘 𝗚𝗢𝗗𝗗𝗘𝗦𝗦 𝗔𝗘𝗦𝗧𝗛𝗘𝗥ฅ^•ﻌ•^ฅ <img src="" width="35"></h1>
 
 ![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://i.imgur.com/25y6rNc.jpeg)
 
 <p align="center">
-  <a href="https://github.com/khrlmstfa/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Im+just+noob;but+I+will+keep+learning;Lets+study+together+(⁠ ⁠˘⁠ ⁠³⁠˘⁠)&center=true&width=500&height=50"></a>
+  <a href="https://i.postimg.cc/0ytKsNMc/88597093f89deef3fd56331f906bafa5.jpg"><img src="https://readme-typing-svg.herokuapp.com?lines=Im+just+noob;but+I+will+keep+learning;Lets+study+together+(⁠ ⁠˘⁠ ⁠³⁠˘⁠)&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">const noob = required('me');</h4>
